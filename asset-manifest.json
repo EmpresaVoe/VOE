@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/VOE/static/css/main.2ae8563a.css",
-    "main.js": "/VOE/static/js/main.a1012224.js",
+    "main.css": "/VOE/static/css/main.e2b56464.css",
+    "main.js": "/VOE/static/js/main.58a29e91.js",
     "static/js/787.39b8b7dc.chunk.js": "/VOE/static/js/787.39b8b7dc.chunk.js",
     "static/media/img_principal.png": "/VOE/static/media/img_principal.f939660ad848e3b12bc2.png",
     "static/media/bg-img4.png": "/VOE/static/media/bg-img4.4ff8802c9700a9f58375.png",
     "static/media/bg-img2.png": "/VOE/static/media/bg-img2.6c509c579689fca18ee4.png",
+    "static/media/img-1.png": "/VOE/static/media/img-1.15913f2efdbfc0026ee4.png",
     "static/media/loja6esquerda.png": "/VOE/static/media/loja6esquerda.5b2132ffb4efd11afcc1.png",
     "static/media/Img-1.png": "/VOE/static/media/Img-1.b9dd175b13457db15d1e.png",
     "static/media/bg-img3.png": "/VOE/static/media/bg-img3.b805c6d3746bcb2d992a.png",
@@ -38,12 +39,12 @@
     "static/media/loja2logo.png": "/VOE/static/media/loja2logo.084425c76e2f37ddec2b.png",
     "static/media/bg_geral_login.png": "/VOE/static/media/bg_geral_login.1432b83a662f44bf39dc.png",
     "index.html": "/VOE/index.html",
-    "main.2ae8563a.css.map": "/VOE/static/css/main.2ae8563a.css.map",
-    "main.a1012224.js.map": "/VOE/static/js/main.a1012224.js.map",
+    "main.e2b56464.css.map": "/VOE/static/css/main.e2b56464.css.map",
+    "main.58a29e91.js.map": "/VOE/static/js/main.58a29e91.js.map",
     "787.39b8b7dc.chunk.js.map": "/VOE/static/js/787.39b8b7dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ae8563a.css",
-    "static/js/main.a1012224.js"
+    "static/css/main.e2b56464.css",
+    "static/js/main.58a29e91.js"
   ]
 }
