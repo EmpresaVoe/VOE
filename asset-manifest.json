@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VOE/static/css/main.e2b56464.css",
+    "main.css": "/VOE/static/css/main.adf8aefe.css",
     "main.js": "/VOE/static/js/main.58a29e91.js",
     "static/js/787.39b8b7dc.chunk.js": "/VOE/static/js/787.39b8b7dc.chunk.js",
     "static/media/img_principal.png": "/VOE/static/media/img_principal.f939660ad848e3b12bc2.png",
@@ -39,12 +39,12 @@
     "static/media/loja2logo.png": "/VOE/static/media/loja2logo.084425c76e2f37ddec2b.png",
     "static/media/bg_geral_login.png": "/VOE/static/media/bg_geral_login.1432b83a662f44bf39dc.png",
     "index.html": "/VOE/index.html",
-    "main.e2b56464.css.map": "/VOE/static/css/main.e2b56464.css.map",
+    "main.adf8aefe.css.map": "/VOE/static/css/main.adf8aefe.css.map",
     "main.58a29e91.js.map": "/VOE/static/js/main.58a29e91.js.map",
     "787.39b8b7dc.chunk.js.map": "/VOE/static/js/787.39b8b7dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2b56464.css",
+    "static/css/main.adf8aefe.css",
     "static/js/main.58a29e91.js"
   ]
 }
