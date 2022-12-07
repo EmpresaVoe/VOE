@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VOE/static/css/main.d4b255a2.css",
-    "main.js": "/VOE/static/js/main.8c97f39e.js",
+    "main.css": "/VOE/static/css/main.bb5a7cdd.css",
+    "main.js": "/VOE/static/js/main.0b9dbce6.js",
     "static/js/787.39b8b7dc.chunk.js": "/VOE/static/js/787.39b8b7dc.chunk.js",
     "static/media/img_principal.png": "/VOE/static/media/img_principal.f939660ad848e3b12bc2.png",
     "static/media/bg-img4.png": "/VOE/static/media/bg-img4.4ff8802c9700a9f58375.png",
@@ -31,7 +31,7 @@
     "static/media/img-servico.png": "/VOE/static/media/img-servico.f291fd5cd8299e227221.png",
     "static/media/img-loja.png": "/VOE/static/media/img-loja.f4404affeec246e22e98.png",
     "static/media/loja3logo.png": "/VOE/static/media/loja3logo.d934508cd17705c843a2.png",
-    "static/media/bg-perfil.png": "/VOE/static/media/bg-perfil.140d4e3d734626bd421d.png",
+    "static/media/bg-perfil.png": "/VOE/static/media/bg-perfil.e90847e631dad68cfc5b.png",
     "static/media/loja5logo.png": "/VOE/static/media/loja5logo.0a146b5fa636f2a22b71.png",
     "static/media/Img1.png": "/VOE/static/media/Img1.e4d6b64f90cf46d3d9ec.png",
     "static/media/Img4.png": "/VOE/static/media/Img4.7214d1cc82090d602451.png",
@@ -47,12 +47,12 @@
     "static/media/loja2logo.png": "/VOE/static/media/loja2logo.084425c76e2f37ddec2b.png",
     "static/media/bg_geral_login.png": "/VOE/static/media/bg_geral_login.1432b83a662f44bf39dc.png",
     "index.html": "/VOE/index.html",
-    "main.d4b255a2.css.map": "/VOE/static/css/main.d4b255a2.css.map",
-    "main.8c97f39e.js.map": "/VOE/static/js/main.8c97f39e.js.map",
+    "main.bb5a7cdd.css.map": "/VOE/static/css/main.bb5a7cdd.css.map",
+    "main.0b9dbce6.js.map": "/VOE/static/js/main.0b9dbce6.js.map",
     "787.39b8b7dc.chunk.js.map": "/VOE/static/js/787.39b8b7dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b255a2.css",
-    "static/js/main.8c97f39e.js"
+    "static/css/main.bb5a7cdd.css",
+    "static/js/main.0b9dbce6.js"
   ]
 }
