@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VOE/static/css/main.855815f9.css",
-    "main.js": "/VOE/static/js/main.61b0df12.js",
+    "main.css": "/VOE/static/css/main.d4b255a2.css",
+    "main.js": "/VOE/static/js/main.8c97f39e.js",
     "static/js/787.39b8b7dc.chunk.js": "/VOE/static/js/787.39b8b7dc.chunk.js",
     "static/media/img_principal.png": "/VOE/static/media/img_principal.f939660ad848e3b12bc2.png",
     "static/media/bg-img4.png": "/VOE/static/media/bg-img4.4ff8802c9700a9f58375.png",
@@ -24,9 +24,9 @@
     "static/media/loja2esquerda.png": "/VOE/static/media/loja2esquerda.8bf1ca99283e5dbcfff1.png",
     "static/media/img-card2.png": "/VOE/static/media/img-card2.ad560882e944fb08d0ab.png",
     "static/media/bg_div.png": "/VOE/static/media/bg_div.e0b07129be883f2f51d9.png",
+    "static/media/img.png": "/VOE/static/media/img.0cfc43e2e8c69dcc0fe2.png",
     "static/media/bg-perfil2.png": "/VOE/static/media/bg-perfil2.d185a9f65802c5677ff8.png",
     "static/media/img-card1.png": "/VOE/static/media/img-card1.448d96c44a391007d59e.png",
-    "static/media/img.png": "/VOE/static/media/img.0cfc43e2e8c69dcc0fe2.png",
     "static/media/bg_mobile.png": "/VOE/static/media/bg_mobile.4b426f6f3651e5fa0947.png",
     "static/media/img-servico.png": "/VOE/static/media/img-servico.f291fd5cd8299e227221.png",
     "static/media/img-loja.png": "/VOE/static/media/img-loja.f4404affeec246e22e98.png",
@@ -35,24 +35,24 @@
     "static/media/loja5logo.png": "/VOE/static/media/loja5logo.0a146b5fa636f2a22b71.png",
     "static/media/Img1.png": "/VOE/static/media/Img1.e4d6b64f90cf46d3d9ec.png",
     "static/media/Img4.png": "/VOE/static/media/Img4.7214d1cc82090d602451.png",
+    "static/media/bg-img.png": "/VOE/static/media/bg-img.19b9e1baa5eb980a079d.png",
     "static/media/loja4logo.png": "/VOE/static/media/loja4logo.4aa87edf772ec920cde1.png",
     "static/media/loja6logo.png": "/VOE/static/media/loja6logo.62ed1821950e5ecbe056.png",
     "static/media/loja1logo.png": "/VOE/static/media/loja1logo.b76636be973ee3afc3b5.png",
     "static/media/feed1.png": "/VOE/static/media/feed1.23a69c40ce41b2296927.png",
     "static/media/Img2.png": "/VOE/static/media/Img2.609e2ba949785fb63cae.png",
     "static/media/Img3.png": "/VOE/static/media/Img3.891773e3245c3cede366.png",
-    "static/media/bg-img.png": "/VOE/static/media/bg-img.19b9e1baa5eb980a079d.png",
     "static/media/Logo.png": "/VOE/static/media/Logo.950968aa75fe226b6ad0.png",
     "static/media/Lg_voe_white.png": "/VOE/static/media/Lg_voe_white.db53c6298b062e28dd88.png",
     "static/media/loja2logo.png": "/VOE/static/media/loja2logo.084425c76e2f37ddec2b.png",
     "static/media/bg_geral_login.png": "/VOE/static/media/bg_geral_login.1432b83a662f44bf39dc.png",
     "index.html": "/VOE/index.html",
-    "main.855815f9.css.map": "/VOE/static/css/main.855815f9.css.map",
-    "main.61b0df12.js.map": "/VOE/static/js/main.61b0df12.js.map",
+    "main.d4b255a2.css.map": "/VOE/static/css/main.d4b255a2.css.map",
+    "main.8c97f39e.js.map": "/VOE/static/js/main.8c97f39e.js.map",
     "787.39b8b7dc.chunk.js.map": "/VOE/static/js/787.39b8b7dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.855815f9.css",
-    "static/js/main.61b0df12.js"
+    "static/css/main.d4b255a2.css",
+    "static/js/main.8c97f39e.js"
   ]
 }
