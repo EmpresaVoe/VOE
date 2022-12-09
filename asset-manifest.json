@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/VOE/static/css/main.93dd1989.css",
-    "main.js": "/VOE/static/js/main.87a719c0.js",
+    "main.css": "/VOE/static/css/main.a152c69c.css",
+    "main.js": "/VOE/static/js/main.9262103b.js",
     "static/js/787.39b8b7dc.chunk.js": "/VOE/static/js/787.39b8b7dc.chunk.js",
     "static/media/img_principal.png": "/VOE/static/media/img_principal.f939660ad848e3b12bc2.png",
-    "static/media/bg-img4.png": "/VOE/static/media/bg-img4.4ff8802c9700a9f58375.png",
     "static/media/bg-img2.png": "/VOE/static/media/bg-img2.7618dcce506687ecea3d.png",
+    "static/media/bg-img4.png": "/VOE/static/media/bg-img4.4ff8802c9700a9f58375.png",
     "static/media/img-1.png": "/VOE/static/media/img-1.15913f2efdbfc0026ee4.png",
     "static/media/loja6esquerda.png": "/VOE/static/media/loja6esquerda.5b2132ffb4efd11afcc1.png",
     "static/media/Img-1.png": "/VOE/static/media/Img-1.b9dd175b13457db15d1e.png",
@@ -47,12 +47,12 @@
     "static/media/loja2logo.png": "/VOE/static/media/loja2logo.084425c76e2f37ddec2b.png",
     "static/media/bg_geral_login.png": "/VOE/static/media/bg_geral_login.1432b83a662f44bf39dc.png",
     "index.html": "/VOE/index.html",
-    "main.93dd1989.css.map": "/VOE/static/css/main.93dd1989.css.map",
-    "main.87a719c0.js.map": "/VOE/static/js/main.87a719c0.js.map",
+    "main.a152c69c.css.map": "/VOE/static/css/main.a152c69c.css.map",
+    "main.9262103b.js.map": "/VOE/static/js/main.9262103b.js.map",
     "787.39b8b7dc.chunk.js.map": "/VOE/static/js/787.39b8b7dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93dd1989.css",
-    "static/js/main.87a719c0.js"
+    "static/css/main.a152c69c.css",
+    "static/js/main.9262103b.js"
   ]
 }
