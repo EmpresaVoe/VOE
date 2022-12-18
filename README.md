@@ -36,9 +36,19 @@
   <img src="https://github.com/EmpresaVoe/VOE/blob/gh-pages/imgs/logo_figma.svg" width="78px">
   <img src="https://github.com/EmpresaVoe/VOE/blob/gh-pages/imgs/canva_logo.png" width="78px">
      <br>
+ <h3 align="center">:dart: Missão</h3>
+<div align="center"><p>Ajudar empreendedores a terem mais oportunidades de visibilidade e capacitação através da nossa plataforma.</p></div>
+
+<h3 align="center">:eyes: Visão</h3>
+<div align="center"><p>Ser referência em geração de oportunidades de crescimento para pequenos e médios negócios na periferia.</p></div>
+
+<h3 align="center">:handshake: Valores</h3>
+<div align="center"><p>Inovação, criatividade e equidade.</p></div>
+
+     
   <h3 align="center"> ENTRE EM CONTATO CONOSCO </h3> 
   <div align="center">
   <a href="https://linktr.ee/GrupoVoe"><img src="https://github.com/EmpresaVoe/VOE/blob/gh-pages/imgs/voe_foguete-removebg-preview.png" width="130px"></a>
   </div>
- 
+  <
     
