@@ -38,7 +38,7 @@
      <br>
   <h3 align="center"> ENTRE EM CONTATO CONOSCO </h3> 
   <div align="center">
-  <a href="https://linktr.ee/GrupoVoe"><img src="" width="80px"></a>
+  <a href="https://linktr.ee/GrupoVoe"><img src="https://github.com/EmpresaVoe/VOE/blob/gh-pages/imgs/voe_foguete-removebg-preview.png" width="130px"></a>
   </div>
  
     
