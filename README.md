@@ -42,7 +42,7 @@
 <h3 align="center">:eyes: Visão</h3>
 <div align="center"><p>Ser referência em geração de oportunidades de crescimento para pequenos e médios negócios na periferia.</p></div>
 
-<h3 align="center">:handshake: Valores</h3>
+<h3 align="center">:: Valores</h3>
 <div align="center"><p>Inovação, criatividade e equidade.</p></div>
 
      
